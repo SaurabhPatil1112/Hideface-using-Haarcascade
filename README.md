@@ -60,18 +60,3 @@ And the last error is unavalible haar cascade:
 ## Known issues
 Almost all problems are listed in issues page. But if you've found smth please add it to help me improve this project.
 * Sometimes users get QtQPA error while running app. I don't understand why...
-
-## Meta
-
-Yakovenko Ivan – [@meyakovenkoj](https://vk.com/meyakovenkoj) – ivan.yakovenko@icloud.com
-
-[https://github.com/meyakovenkoj/](https://github.com/meyakovenkoj/)
-
-## Contributing
-
-1. Fork it (<https://github.com/meyakovenkoj/hideface/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
